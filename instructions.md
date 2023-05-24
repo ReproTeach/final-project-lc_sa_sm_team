@@ -28,15 +28,6 @@ The project will be graded based on the following criteria:
 - Creativity and Suitability (10/35): Creativity will be assessed in terms of the analyses you choose and the visualization techniques you employ. Suitability refers to whether the chosen analyses and visualization match your research questions.
 - Code Quality (10/35): Your code should run without errors.
 
-## Potential Data Sources
-
-Here are some potential sources for datasets you might want to consider for this project:
-
-- Twitter Climate Change Sentiment Dataset: This dataset contains about 40,000 tweets from April 27, 2021, that are related to climate change. [Link](https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset)
-- Reddit Vaccine Myths: This dataset contains comments and posts from the subreddit r/VaccineMyths. It spans a period from its inception in 2012 to July 2021. [Link](https://www.kaggle.com/gpreda/reddit-vaccine-myths)
-- COVID-19 Twitter Sentiment Analysis: This is a dataset of tweets about COVID-19 collected from March 2020. It contains the Tweet's text, username, description, location, and following details. [Link](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification)
-- News Headlines Dataset for Sarcasm Detection: This dataset contains headlines from news articles, and each headline is labeled as being sarcastic or not. It was last updated in 2019. [Link](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)
-- CrisisLexT26: This dataset contains a collection of Twitter datasets related to 26 crises that occurred from 2012 to 2019. It includes natural disasters like hurricanes, floods, earthquakes, and man-made incidents like bombings and shootings. [Link](https://crisislex.org/data-collections.html#CrisisLexT26)
 
 ## Research Papers
 
